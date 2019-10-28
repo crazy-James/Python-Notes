@@ -1,2 +1,2 @@
-# Python-Notes
-A little Python Note
+## 这是一份非专业的Python学习笔记，包含一些别人开源的代码，Python相关的计算机知识，仅供参考！
+
